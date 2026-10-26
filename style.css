@@ -22,6 +22,9 @@ div{
     background-color: #00ff; 
    /*  when we select something more specific, it would overide the other stuff*/
 }
+.car-title {
+    text align: center;
+}
 #test{
     background-color: #42131b;
 }
