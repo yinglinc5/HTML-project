@@ -2,8 +2,9 @@
 html,
 body,
 *{
-    font-size: 12px;
+   
+    color: #f7d9db;
 }
 body{
-    background-color: #4d060b;
+   background-color: #4d060b;
 }
