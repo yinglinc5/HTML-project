@@ -2,9 +2,19 @@
 html,
 body,
 *{
-   
+    
     color: #f7d9db;
 }
 body{
    background-color: #4d060b;
+}
+.hero{
+     display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  background-image: 
+  url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6_BYazEWetrFWy4b4Cja_pIrQv-KlSIRR8LH0VrmMBZi783CzeeOeyw&s=10)
+  ;
 }
