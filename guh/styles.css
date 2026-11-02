@@ -7,14 +7,30 @@ body,
 }
 body{
    background-color: #4d060b;
+   font-family: "Pixelify Sans", sans-serif;
+   font-size: 2rem;
+   text-shadow: 0 5px 8px rgba(0, 0, 0, 0.4);
+   padding: 2rem;
 }
 .hero{
-     display: flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
   height: 100vh;
   background-image: 
   url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6_BYazEWetrFWy4b4Cja_pIrQv-KlSIRR8LH0VrmMBZi783CzeeOeyw&s=10);
-  height:30rem;
+  height:40rem;
+}
+.btn{
+   height: 4rem;
+   background-color: #4d060b;
+   border-radius: 1px;
+   border-color: #5e1419;
+   cursor: pointer;
+padding: 1rem;
+}
+.meme{
+   height: 50rem;
+   justify-content: center;
 }
